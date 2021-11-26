@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xbenc
-- 👀 I’m interested in 3D on the web and NFTs
+- 👀 I’m interested in Web 3D and NFTs
 - 🌱 I’m currently learning React Three Fiber and p5js
 - 💞️ I’m looking to collaborate on React Three Fiber and p5js
 - 📫 How to reach me 0xbenc@gmail.com
