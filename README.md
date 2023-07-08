@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xbenc
-- 👀 I’m interested in Web Games and Web GPU Art
-- 🌱 I’m currently learning React Three Fiber and p5js
-- 💞️ I’m looking to collaborate on React Three Fiber and p5js
+- 👀 I’m interested in Web Games, Web GPU Art, and NeRFs
+- 🌱 I’m currently learning React Three Fiber, p5js, and cv2
+- 💞️ I’m looking to collaborate on React Three Fiber and p5js, as well as [Skyway](https://github.com/0xbenc/skyway)
 - 📫 How to reach me 0xbenc@gmail.com
