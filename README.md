@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @0xbenc
 - 👀 I’m interested in NeRFs, Gaussian Splats, and robot photogrammetry
-- 🌱 I’m currently learning React Three Fiber, cv2, and LangChain
-- 💞️ I’m looking to collaborate on React Three Fiber and p5js art, as well as [Skyway](https://github.com/0xbenc/skyway)
+- 🌱 I’m currently learning React Three Fiber, cv2, and Appwrite
 - 📫 How to reach me: 0xbenc@gmail.com
